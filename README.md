@@ -2,7 +2,7 @@
 
 Hobby developer with a focus on Python 🐍 and cybersecurity fundamentals 🔐. Interested in computer networking, system optimization, and building practical tools.
 
-- Linux (CachyOS, i3wm; Arch, Hyprland) 🐧 | Windows 🪟
+- Linux (CachyOS, i3wm; Arch, Hyprland) | Windows 
 
 
 <!---
